@@ -6,6 +6,12 @@ public static class FizzBuzzC
     {
         string output;
 
+        if (number > 100)
+        {
+            output = number.ToString("error");
+            return output;
+        }
+
         if ((number % 3 == 0) && (number % 5 == 0))
         {
             output = "FizzBuzz";
@@ -22,6 +28,7 @@ public static class FizzBuzzC
         {
             output = number.ToString();
         }
+
 
         return output;
     }
