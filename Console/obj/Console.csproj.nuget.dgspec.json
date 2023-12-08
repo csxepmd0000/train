@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chen\\Desktop\\新人研修用\\train\\Console\\Console.csproj": {}
+    "C:\\Users\\tk.hashimoto\\Desktop\\train\\Console\\Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chen\\Desktop\\新人研修用\\train\\Console\\Console.csproj": {
+    "C:\\Users\\tk.hashimoto\\Desktop\\train\\Console\\Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chen\\Desktop\\新人研修用\\train\\Console\\Console.csproj",
+        "projectUniqueName": "C:\\Users\\tk.hashimoto\\Desktop\\train\\Console\\Console.csproj",
         "projectName": "Console",
-        "projectPath": "C:\\Users\\chen\\Desktop\\新人研修用\\train\\Console\\Console.csproj",
-        "packagesPath": "C:\\Users\\chen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chen\\Desktop\\新人研修用\\train\\Console\\obj\\",
+        "projectPath": "C:\\Users\\tk.hashimoto\\Desktop\\train\\Console\\Console.csproj",
+        "packagesPath": "C:\\Users\\tk.hashimoto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tk.hashimoto\\Desktop\\train\\Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\chen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\tk.hashimoto\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\chen\\Desktop\\新人研修用\\train\\FizzBuzz\\FizzBuzz.csproj": {
-                "projectPath": "C:\\Users\\chen\\Desktop\\新人研修用\\train\\FizzBuzz\\FizzBuzz.csproj"
+              "C:\\Users\\tk.hashimoto\\Desktop\\train\\FizzBuzz\\FizzBuzz.csproj": {
+                "projectPath": "C:\\Users\\tk.hashimoto\\Desktop\\train\\FizzBuzz\\FizzBuzz.csproj"
               }
             }
           }
@@ -59,28 +57,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\chen\\Desktop\\新人研修用\\train\\FizzBuzz\\FizzBuzz.csproj": {
+    "C:\\Users\\tk.hashimoto\\Desktop\\train\\FizzBuzz\\FizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chen\\Desktop\\新人研修用\\train\\FizzBuzz\\FizzBuzz.csproj",
+        "projectUniqueName": "C:\\Users\\tk.hashimoto\\Desktop\\train\\FizzBuzz\\FizzBuzz.csproj",
         "projectName": "FizzBuzz",
-        "projectPath": "C:\\Users\\chen\\Desktop\\新人研修用\\train\\FizzBuzz\\FizzBuzz.csproj",
-        "packagesPath": "C:\\Users\\chen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chen\\Desktop\\新人研修用\\train\\FizzBuzz\\obj\\",
+        "projectPath": "C:\\Users\\tk.hashimoto\\Desktop\\train\\FizzBuzz\\FizzBuzz.csproj",
+        "packagesPath": "C:\\Users\\tk.hashimoto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tk.hashimoto\\Desktop\\train\\FizzBuzz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\chen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\tk.hashimoto\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -114,7 +110,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

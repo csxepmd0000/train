@@ -10,3 +10,14 @@ C:\Users\chen\Desktop\新人研修用\train\FizzBuzz\obj\Debug\net7.0\FizzBuzz.d
 C:\Users\chen\Desktop\新人研修用\train\FizzBuzz\obj\Debug\net7.0\refint\FizzBuzz.dll
 C:\Users\chen\Desktop\新人研修用\train\FizzBuzz\obj\Debug\net7.0\FizzBuzz.pdb
 C:\Users\chen\Desktop\新人研修用\train\FizzBuzz\obj\Debug\net7.0\ref\FizzBuzz.dll
+C:\Users\tk.hashimoto\Desktop\train\FizzBuzz\bin\Debug\net7.0\FizzBuzz.deps.json
+C:\Users\tk.hashimoto\Desktop\train\FizzBuzz\bin\Debug\net7.0\FizzBuzz.dll
+C:\Users\tk.hashimoto\Desktop\train\FizzBuzz\bin\Debug\net7.0\FizzBuzz.pdb
+C:\Users\tk.hashimoto\Desktop\train\FizzBuzz\obj\Debug\net7.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tk.hashimoto\Desktop\train\FizzBuzz\obj\Debug\net7.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\tk.hashimoto\Desktop\train\FizzBuzz\obj\Debug\net7.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\tk.hashimoto\Desktop\train\FizzBuzz\obj\Debug\net7.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\tk.hashimoto\Desktop\train\FizzBuzz\obj\Debug\net7.0\FizzBuzz.dll
+C:\Users\tk.hashimoto\Desktop\train\FizzBuzz\obj\Debug\net7.0\refint\FizzBuzz.dll
+C:\Users\tk.hashimoto\Desktop\train\FizzBuzz\obj\Debug\net7.0\FizzBuzz.pdb
+C:\Users\tk.hashimoto\Desktop\train\FizzBuzz\obj\Debug\net7.0\ref\FizzBuzz.dll
